@@ -1,2 +1,5 @@
 *.exe
 *.test
+
+/main
+/main.exe
