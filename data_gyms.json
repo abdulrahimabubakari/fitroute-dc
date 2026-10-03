@@ -1,0 +1,152 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-06T03:25:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 5910361054,
+  "lat": 38.9145258,
+  "lon": -77.0273707,
+  "tags": {
+    "addr:city": "Washington",
+    "addr:housenumber": "1802",
+    "addr:postcode": "20001",
+    "addr:state": "DC",
+    "addr:street": "11th Street Northwest",
+    "addr:unit": "1B",
+    "leisure": "sports_centre",
+    "name": "Dedicated Strength",
+    "sport": "weightlifting;crossfit"
+  }
+},
+{
+  "type": "node",
+  "id": 6110062417,
+  "lat": 38.9168524,
+  "lon": -77.0265590,
+  "tags": {
+    "brand": "F45 Training",
+    "brand:wikidata": "Q64390973",
+    "check_date": "2023-09-04",
+    "leisure": "fitness_centre",
+    "name": "F45 Training",
+    "payment:american_express": "yes",
+    "payment:discover_card": "yes",
+    "payment:mastercard": "yes",
+    "payment:unionpay": "yes",
+    "payment:visa": "yes",
+    "short_name": "F45"
+  }
+},
+{
+  "type": "node",
+  "id": 13374582094,
+  "lat": 38.9192349,
+  "lon": -77.0239903,
+  "tags": {
+    "brand": "CorePower Yoga",
+    "brand:wikidata": "Q21015663",
+    "leisure": "fitness_centre",
+    "name": "CorePower Yoga",
+    "sport": "yoga"
+  }
+},
+{
+  "type": "way",
+  "id": 277831037,
+  "center": {
+    "lat": 38.9263514,
+    "lon": -77.0221854
+  },
+  "nodes": [
+    2822820288,
+    3004999292,
+    2822820289,
+    367144271,
+    2822820291,
+    2822820292,
+    2822820293,
+    2822820294,
+    2822820295,
+    2822820288
+  ],
+  "tags": {
+    "addr:city": "Washington",
+    "addr:country": "US",
+    "addr:housenumber": "2827",
+    "addr:postcode": "20001",
+    "addr:state": "DC",
+    "addr:street": "Georgia Avenue Northwest",
+    "building": "yes",
+    "ele": "58",
+    "gnis:feature_id": "2102564",
+    "leisure": "sports_centre",
+    "name": "John Burr Gymnasium",
+    "operator": "Howard University",
+    "source": "USGS Geonames",
+    "sport": "basketball;volleyball"
+  }
+},
+{
+  "type": "way",
+  "id": 277915696,
+  "center": {
+    "lat": 38.9259412,
+    "lon": -77.0223989
+  },
+  "nodes": [
+    2823551110,
+    3004999290,
+    611467199,
+    611467205,
+    611467197,
+    2823551111,
+    2823551110
+  ],
+  "tags": {
+    "addr:city": "Washington",
+    "addr:country": "US",
+    "addr:housenumber": "2801",
+    "addr:postcode": "20001",
+    "addr:state": "DC",
+    "addr:street": "Georgia Avenue Northwest",
+    "building": "yes",
+    "elevation": "57",
+    "leisure": "sports_centre",
+    "name": "Burr Gymnasium Annex"
+  }
+},
+{
+  "type": "way",
+  "id": 658571789,
+  "center": {
+    "lat": 38.9227058,
+    "lon": -77.0225837
+  },
+  "nodes": [
+    358959862,
+    6166920977,
+    6166920978,
+    6166920979,
+    6166920981,
+    6166920982,
+    6166920983,
+    6166920980,
+    358959862
+  ],
+  "tags": {
+    "building": "sports_centre",
+    "historic": "building",
+    "leisure": "sports_centre",
+    "name": "Banneker Recreation Center",
+    "wikidata": "Q4856895"
+  }
+}
+
+  ]
+}
